@@ -1,10 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "net.gosugamers.staging.app",
-    "sha256_cert_fingerprints":
-    ["AC:62:E6:2E:F2:E4:68:6C:90:92:5F:92:1A:74:9B:D5:5C:B7:6B:7A:AC:4D:52:B1:79:5B:3E:EA:07:BF:B5:88"]
-  }
+  "target" : { "namespace": "android_app", "package_name": "net.gosugamers.staging.app",
+               "sha256_cert_fingerprints": ["AC:62:E6:2E:F2:E4:68:6C:90:92:5F:92:1A:74:9B:D5:5C:B7:6B:7A:AC:4D:52:B1:79:5B:3E:EA:07:BF:B5:88"] }
 }]
-
