@@ -10,5 +10,29 @@
         "F9:09:5A:57:D2:0E:E2:00:92:B7:A5:B4:AC:E3:07:57:2B:02:F2:95:C3:F5:CE:45:62:26:74:EC:08:AE:11:4E"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.gosugamers.app",
+      "sha256_cert_fingerprints": [
+        "A7:6F:7A:02:10:BF:EE:55:85:81:D5:F5:21:C9:95:80:AC:AE:13:DB:17:3F:FB:C7:65:31:50:50:B6:04:82:E2"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "net.gosugamers.staging.app",
+      "sha256_cert_fingerprints": [
+        "B1:40:66:CB:8B:0E:EA:83:E5:CF:DF:8C:CF:04:A3:E4:AC:70:6A:FF:E8:D2:63:0C:53:6D:7F:5E:53:D3:DD:B2"
+      ]
+    }
   }
 ]
