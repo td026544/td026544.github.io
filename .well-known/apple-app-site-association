@@ -1,15 +1,14 @@
-Content-Type: application/json; charset=utf-8
 {
   "applinks": {
       "apps": [],
       "details": [
       {
-        "appID": "S8QB4VV633.net.gosugamers.staging.app",
+        "appID": "H8YU6GK5F5.net.gosugamers.staging.app",
         "paths": ["*"]
       }
     ]
   }, 
   "webcredentials": {
-    "apps": ["S8QB4VV633.net.gosugamers.staging.app"]
+    "apps": ["H8YU6GK5F5.net.gosugamers.staging.app"]
  }
 }
